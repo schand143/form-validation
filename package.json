@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "## Validation form",
   "main": "index.js",
+  "homepage": "https://schand143.github.io/form-validation/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
